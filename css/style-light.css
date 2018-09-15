@@ -970,6 +970,7 @@ header .header-mobile .header-toggle i {
     position: absolute !important;
     height: 100%;
     width: 100%;
+    z-index: -1;
 }
 
 .banner-section .banner-slider {
